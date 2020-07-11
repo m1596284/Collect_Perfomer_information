@@ -10,4 +10,5 @@ Run the program
 For example: Hoster  
 Phase 1 : Use chromedriver, search #hoster, scroll down for dynamically loading, record all post link.  
 Phase 2 : Send "get" to the link and then get the author's ID of each post.  
-Phase 3 : Use mulitple threading to login each account then search the ID main page to get the user information.
+Phase 3 : Use mulitple threading to login each account then search the ID main page to get the user information.  
+IP blocked : sometime if you send each request too quick and too close, IG will block your IP, the solution I used is to make a randomly stop between each request. 
