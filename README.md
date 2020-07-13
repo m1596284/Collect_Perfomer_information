@@ -1,10 +1,10 @@
-# Collect_Perfomer_information
+# Collect_Performer_information
 Collect area, contact info, activity and equipment of performer in the city. [Multiple account, IP blocked, Header parameter]
 
 ## User :
 Run the program  
-<img src="https://github.com/m1596284/Collect_Perfomer_information/blob/master/Collect_Performers_info.png" width="647" height="426">
-<img src="https://github.com/m1596284/Collect_Perfomer_information/blob/master/IG_Host_Tag.gif" width="647" height="426">
+<img src="https://github.com/m1596284/Collect_Performer_information/blob/master/Collect_Performers_info.png" width="647" height="426">
+<img src="https://github.com/m1596284/Collect_Performer_information/blob/master/IG_Host_Tag.gif" width="647" height="426">
 
 ## Backstage : Python + Selenium + Request + Beautifulsoup + UserAgent
 For example: Hoster  
